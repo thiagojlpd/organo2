@@ -1,5 +1,7 @@
 Este projeto foi criado com o Create React App.
 
+ACESSE PARA VÊR O RESULTADO DO NO VERSEL: https://organo2-navy-kappa.vercel.app/
+
 ESTE PROJETO VISA DISPONIBILIZAR UM FRONT END PARA REPRESENTAR O ORGANOGRAMA DE TIMES DE UMA ORGANIZAÇÃO
 
 Scripts Disponíveis
